@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mathematicasis | Números Naturais</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <a href="index.html"><img src="img/logo-site.png" alt="Logo do Site" class="logo"></a>
+        <img src="img/foto-perfil.jpg" alt="Foto de Perfil do Usuário" class="foto-perfil">
+        
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="numeros-naturais.html">Naturais</a></li>
+                <li><a href="numeros-inteiros.html">Inteiros</a></li>
+                <li><a href="#">Racionais</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Números Naturais (N)</h1>
+        <p>O conjunto dos números naturais, simbolizado por N, é a base para a contagem. Ele inclui todos os números inteiros não negativos.</p>
+        <p>Exemplos de números naturais incluem: 0, 1, 2, 3, 4, ...N. Eles são utilizados para ordenar e quantificar elementos em um conjunto.</p>
+        <img src="img/diagrama-naturais.png" alt="Diagrama de Números Naturais" style="max-width: 100%; height: auto;">
+    </main>
+
+    <footer>
+        <img src="img/logo-escola.png" alt="Logo da Escola">
+        <p>Desenvolvido por: [Seu Nome]</p>
+        <p>Professor: [Nome do Professor]</p>
+    </footer>
+
+</body>
+</html>
